@@ -50,7 +50,8 @@
 
 [generators]
 git.repo = "https://github.com/OpenChemistry/avogenerators.git"
-git.commit = "12a58630dde5b7184dfafd97e67e0022c49f7a09"
+git.commit = "e618a7528a4d001fcab6b4cc596811de8d671617"
+release-tag = "2.1.0"
 
 [rdkit]
 git.repo = "https://github.com/ghutchis/avogadro-rdkit.git"
